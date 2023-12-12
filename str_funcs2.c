@@ -1,7 +1,8 @@
 /*
  * File: str_funcs2.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
+ *
  */
 
 #include "shell.h"
