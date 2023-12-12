@@ -1,7 +1,7 @@
 /*
  * File: errors.c
  * Auth: Ebenezer Kissied
- *       Hanae
+ *       Hanae Aghoutane
  */
 
 #include "shell.h"
