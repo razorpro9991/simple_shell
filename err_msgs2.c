@@ -1,7 +1,8 @@
 /*
  * File: err_msgs2.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
+ *
  */
 
 #include "shell.h"

@@ -1,7 +1,7 @@
 /*
  * File: linkedlist.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
  */
 
 #include "shell.h"
