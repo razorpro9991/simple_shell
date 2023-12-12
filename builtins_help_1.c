@@ -1,7 +1,7 @@
 /*
  * File: builtins_help_1.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
  */
 
 #include "shell.h"
