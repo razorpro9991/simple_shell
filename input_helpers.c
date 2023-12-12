@@ -1,7 +1,7 @@
 /*
  * File: input_helpers.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
  */
 
 #include "shell.h"

@@ -1,7 +1,7 @@
 /*
  * File: split.c
  * Auth: Ebenezer Kissiedu
- *       Hanae
+ *       Hanae Aghoutane
  */
 
 #include "shell.h"
