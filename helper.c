@@ -1,6 +1,6 @@
 /*
  * File: helper.c
- * Auth: Ebenezer Kissiedu
+ * Auth: Ebenezer Kwadwo Kissiedu
  *       Hanae Aghoutane
  */
 
