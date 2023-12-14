@@ -1,6 +1,6 @@
 /*
  * File: errors.c
- * Auth: Ebenezer Kissied
+ * Auth: Ebenezer Kwadwo Kissied
  *       Hanae Aghoutane
  */
 
